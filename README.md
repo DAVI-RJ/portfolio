@@ -26,20 +26,14 @@ I've been working on personal projects that simulate real-world scenarios, apply
 - Proactive mindset and continuous learning
 
 ## Language and tools
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,aws)](https://skillicons.dev)
 
 | Back-end |	My Skills|
 |:----------||----------:|
-| Front-end|	My Skills
-|:----------||----------:|
+| Front-end|	My Skills |
 | Cloud	| My Skills|
-|:----------||----------:|
 |Platforms| My Skills|
-|----------|
-|Data	| My Skills Oracle
-|----------|
-DevOps, build, docs and tests	My Skills
-|----------|
-Frameworks	My Skills Meteor
-|----------|
-Tools	My Skills
-Design	My Skills
+|Data	| My Skills Oracle |
+|Frameworks	My Skills Meteor
+|Tools	|My Skills |
+|Design	|My Skills | 
