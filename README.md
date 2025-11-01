@@ -9,23 +9,23 @@ professional transitioning into the software development field. I'm currently st
 ## 🚀 My Key Skills & Projects
 
   ### 🖥️ Front-end Projects
-    - [Frontend Website - sobre controle ](https://github.com/DAVI-RJ/frontend_Sobre_controle): Built with React.js and styled-components, showcasing responsive design and component reuse.
+  - [Frontend Website - sobre controle ](https://github.com/DAVI-RJ/frontend_Sobre_controle): Built with React.js and styled-components, showcasing responsive design and component reuse.
 
   ### ⚙️ Back-end Projects
-    - [Backend Server - Sobre Controle ](https://github.com/DAVI-RJ/backend_node.js): Node.js + Express REST API with JWT authentication and MongoDB.
+  - [Backend Server - Sobre Controle ](https://github.com/DAVI-RJ/backend_node.js): Node.js + Express REST API with JWT authentication and MongoDB.
 
 
-  ### 📋 Analytic
-    - [Analise de Requisitos - Bregworks](https://github.com/DAVI-RJ/Analise_Sistema): System Requirements Document Template. Template for gathering and documenting functional and non-functional requirements. Documention UML sistyms. 
-    - [QA_Teste_e-commerce](https://github.com/DAVI-RJ/QA_Teste_e-commerce)
+  ### 📋 System Analysis & QA Projects
+  - [Analise de Requisitos - Bregworks](https://github.com/DAVI-RJ/Analise_Sistema): System Requirements Document Template. Template for gathering and documenting functional and non-functional requirements. Documention UML sistyms. 
+  - [QA_Teste_e-commerce](https://github.com/DAVI-RJ/QA_Teste_e-commerce)
 
   ### Python 
-    - [Python_Gestao_Funcionarios](https://github.com/DAVI-RJ/Python_Gestao_Funcionarios)
+  - [Python_Gestao_Funcionarios](https://github.com/DAVI-RJ/Python_Gestao_Funcionarios)
 
 ## What sets me apart:
-  - 💡 Strong foundation in IT management, giving me strategic and organizational insight
-  - Focus on security, scalability, and clean code
-  - ✍️Proactive mindset and continuous learning
+- 💡 Strong foundation in IT management, giving me strategic and organizational insight
+- Focus on security, scalability, and clean code
+- ✍️Proactive mindset and continuous learning
 
 ### Language and tools
 |  |       | 
