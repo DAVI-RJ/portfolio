@@ -12,7 +12,7 @@ professional transitioning into the software development field. I'm currently st
   
   - [Frontend Website - sobre controle ](https://github.com/DAVI-RJ/frontend_Sobre_controle): Built with React.js and styled-components, showcasing responsive design and component reuse.
 
-  - [Backend Server - Sobre Controle ](https://github.com/DAVI-RJ/backend_node.js): Node.js + Express REST API with JWT authentication and MongoDB.
+  - [Backend Server - Sobre Controle ](https://github.com/DAVI-RJ/backend_node.js): Node.js + Express RESTful API with JWT authentication and Postgres.
 
 
 ### 📋 System Analysis & QA Projects
