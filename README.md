@@ -4,7 +4,7 @@ Projetos stack , end-to-end.
 ## Analista QA | JavaScript | Python | Fullstack Web
 
 ### 👋  Hello, i'm Davi.
-professional transitioning into the software development field. I'm currently studying Systems Analysis and Development. Although I haven't worked directly in tech yet, I've been deeply committed to learning and applying the most in-demand technologies.
+professional transitioning into the software development field. I'm currently studying Systems Analysis and Development. 
 
 ## 🚀 My Key Skills & Projects
 
